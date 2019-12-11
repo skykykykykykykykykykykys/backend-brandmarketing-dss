@@ -6,6 +6,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from google.cloud import bigquery
+
 
 app = Flask(__name__)
 
@@ -59,6 +61,10 @@ def show_visual():
 @app.route('/')
 def index():
      return render_template('index.html')
+
+@app.route('/charts')
+def index():
+     return render_template('charts.html')
 
 if __name__ == '__main__':
      app.run(debug=True)
