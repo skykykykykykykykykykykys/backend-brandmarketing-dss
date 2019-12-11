@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 
 app = Flask(__name__)
+
 my_loader = jinja2.ChoiceLoader([
      app.jinja_loader,
      jinja2.FileSystemLoader('/templates')
@@ -15,9 +16,6 @@ my_loader = jinja2.ChoiceLoader([
 app.jinja_loader = my_loader
 df = pd.read_csv('/data/data.csv')
 continent = df.groupby('contingent')
-
-
-
 
 @app.route('/pie1/')
 def show_visual():
