@@ -13,24 +13,47 @@ my_loader = jinja2.ChoiceLoader([
      jinja2.FileSystemLoader('/templates')
 ])
 app.jinja_loader = my_loader
+df = pd.read_csv('/data/data.csv')
+continent = df.groupby('contingent')
 
-@app.route('/asia')
+
+
+
+@app.route('/pie1/')
 def show_visual():
-     data = pd.read_csv('/data/data.csv')
-     #Provide Pie Chart with 
+     #Provide Pie Chart with Asia and Channel Group
+     continent_count = {'Americas': 0, 'Asia': 0, 'Europe': 0, 'Oceania': 0, 'Africa': 0}
+     for continent in df['continents']:
+          if continent == 'Americas':
+               continent_count['Americas'] += 1
+          if continent == 'Asia':
+               continent_count['Asia'] += 1
+          if continent == 'Europe':
+               continent_count['Europe'] += 1
+          if continent == 'Oceania':
+               continent_count['Oceania'] += 1
+          if continent == 'Africa':
+               continent_count['Africa'] += 1
+     
+     labels = continent_count.keys()
+     data = continent_count.values()
+     explode = (0.05, 0, 0,0,0)
 
+     plt.figure(figsize=(5,5))
+     plt.pie(data, labels=labels, explode=explode, autopct='%1.1f%%', startangle=55)
+     plt.title('Visits per Continent')
+     plt.axis('equal') 
      fig, ax = plt.subplots()
-
-     country_data = data["contingent"]
-     medal_data = data["gold_medal"]
-     colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
-     explode = (0.1, 0, 0, 0, 0)  
-     plt.pie(medal_data, labels=country_data, explode=explode, colors=colors,
-     autopct='%1.1f%%', shadow=True, startangle=140)
-     plt.title("Channel Grouping from Asia Continents")
-     plt.show()
+     continent_data = continent["asia"]
+     
 
 
+     #medal_data = data["gold_medal"]
+     #colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
+     #explode = (0.1, 0, 0, 0, 0)  
+     #plt.pie(medal_data, labels=country_data, explode=explode, colors=colors,
+     #autopct='%1.1f%%', shadow=True, startangle=140)
+     #plt.title("Channel Grouping from Asia Continents")
 
      #exporting to png
      canvas = FigureCanvas(fig)
