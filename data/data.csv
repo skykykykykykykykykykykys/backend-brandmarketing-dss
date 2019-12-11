@@ -1,0 +1,201 @@
+visitorId,visitNumber,visitId,StartTime,date,totals,visits,hits,pageviews,bounces,newVisits,campaign,source,medium,continent,subContinent,country,hitsNumber,time,hour,minute,isInteraction,isEntrance,isExit,userId,fullVisitorId,channelGrouping,socialEngagementType
+1,1,1470470412,1470470412,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Western Asia,Turkey,1,0,1,0,TRUE,TRUE,TRUE,9,6,22E+22,Organic Search,Not Socially Engaged
+2,2,1470542338,1470542338,20160806,1,1,1,1,1,0,AW - Dynamic Search Ads Whole Site,google,cpc,Americas,Northern America,United States,1,0,20,58,TRUE,TRUE,TRUE,7,6,00E+22,Paid Search,Not Socially Engaged
+3,1,1470497122,1470497122,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Russia,1,0,8,25,TRUE,TRUE,TRUE,5,9,45E+21,Organic Search,Not Socially Engaged
+4,1,1470534817,1470534817,20160806,1,1,1,1,1,1,(not set),baidu,organic,Asia,Eastern Asia,China,1,0,18,53,TRUE,TRUE,TRUE,9,5,96E+22,Organic Search,Not Socially Engaged
+5,1,1470532418,1470532418,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,18,13,TRUE,TRUE,TRUE,5,7,49E+22,Organic Search,Not Socially Engaged
+6,1,1470483931,1470483931,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,4,45,TRUE,TRUE,TRUE,9,5,88E+22,Organic Search,Not Socially Engaged
+7,1,1470551236,1470551236,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,23,27,TRUE,TRUE,TRUE,1,8,95E+22,Organic Search,Not Socially Engaged
+8,1,1470470723,1470470723,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,Malaysia,1,0,1,5,TRUE,TRUE,TRUE,5,8,16E+22,Organic Search,Not Socially Engaged
+9,1,1470517341,1470517341,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Central America,Mexico,1,0,14,2,TRUE,TRUE,TRUE,3,7,64E+22,Organic Search,Not Socially Engaged
+10,1,1470491604,1470491604,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Russia,1,0,6,53,TRUE,TRUE,TRUE,4,5,19E+20,Organic Search,Not Socially Engaged
+11,1,1470491975,1470491975,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Russia,1,0,6,59,TRUE,TRUE,TRUE,9,9,49E+22,Organic Search,Not Socially Engaged
+12,1,1470549635,1470549635,20160806,1,1,1,1,1,1,AW - Dynamic Search Ads Whole Site,google,cpc,Americas,Northern America,United Kingdom,1,0,23,0,TRUE,TRUE,TRUE,9,3,68E+21,Paid Search,Not Socially Engaged
+13,1,1470470703,1470470703,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,1,5,TRUE,TRUE,TRUE,3,9,99E+21,Organic Search,Not Socially Engaged
+14,2,1470471625,1470471625,20160806,1,1,1,1,1,0,(not set),google,organic,Asia,Southern Asia,China,1,0,1,20,TRUE,TRUE,TRUE,5,1,53E+20,Organic Search,Not Socially Engaged
+15,1,1470533256,1470533256,20160806,1,1,1,1,1,1,(not set),baidu,organic,Asia,Eastern Asia,China,1,0,18,27,TRUE,TRUE,TRUE,4,1,51E+22,Organic Search,Not Socially Engaged
+16,1,1470515294,1470515294,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,France,1,0,13,28,TRUE,TRUE,TRUE,2,9,71E+22,Organic Search,Not Socially Engaged
+17,1,1470497719,1470497719,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,8,35,TRUE,TRUE,TRUE,9,1,64E+22,Organic Search,Not Socially Engaged
+18,1,1470525818,1470525818,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,16,23,TRUE,TRUE,TRUE,7,4,41E+22,Organic Search,Not Socially Engaged
+19,2,1470486622,1470486622,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,5,30,TRUE,TRUE,TRUE,2,2,25E+22,Organic Search,Not Socially Engaged
+20,1,1470496665,1470496665,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,8,17,TRUE,TRUE,TRUE,4,5,25E+21,Organic Search,Not Socially Engaged
+21,1,1470547825,1470547825,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,22,30,TRUE,TRUE,TRUE,9,3,95E+22,Organic Search,Not Socially Engaged
+22,2,1470481881,1470481881,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,4,11,TRUE,TRUE,TRUE,7,7,85E+22,Organic Search,Not Socially Engaged
+23,1,1470487930,1470487930,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,5,52,TRUE,TRUE,TRUE,7,4,84E+22,Organic Search,Not Socially Engaged
+24,1,1470529791,1470529791,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,17,29,TRUE,TRUE,TRUE,9,7,61E+21,Direct,Not Socially Engaged
+25,1,1470475426,1470475426,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Eastern Asia,Hong Kong,1,0,2,23,TRUE,TRUE,TRUE,5,9,54E+21,Organic Search,Not Socially Engaged
+26,1,1470506691,1470506691,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,11,4,TRUE,TRUE,TRUE,6,6,39E+22,Organic Search,Not Socially Engaged
+27,1,1470520590,1470520590,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Italy,1,0,14,56,TRUE,TRUE,TRUE,8,7,79E+22,Organic Search,Not Socially Engaged
+28,2,1470505005,1470505005,20160806,1,1,1,1,1,1,AW - Dynamic Search Ads Whole Site,google,cpc,Americas,Northern America,United States,1,0,10,36,TRUE,TRUE,TRUE,8,9,13E+22,Paid Search,Not Socially Engaged
+29,1,1470476119,1470476119,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,2,35,TRUE,TRUE,TRUE,5,9,04E+22,Organic Search,Not Socially Engaged
+30,1,1470500586,1470500586,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,9,23,TRUE,TRUE,TRUE,9,9,87E+21,Organic Search,Not Socially Engaged
+31,1,1470508964,1470508964,20160806,1,1,1,1,1,1,(not set),(direct),(none),Africa,Northern Africa,Morocco,1,0,11,42,TRUE,TRUE,TRUE,4,3,16E+22,Direct,Not Socially Engaged
+32,1,1470545234,1470545234,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,South America,Chile,1,0,21,47,TRUE,TRUE,TRUE,5,7,92E+21,Direct,Not Socially Engaged
+33,1,1470508197,1470508197,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,11,29,TRUE,TRUE,TRUE,5,6,81E+22,Organic Search,Not Socially Engaged
+34,1,1470478240,1470478240,20160806,1,1,1,1,1,1,(not set),(direct),(none),Asia,Southeast Asia,Indonesia,1,0,3,10,TRUE,TRUE,TRUE,3,5,19E+22,Direct,Not Socially Engaged
+35,1,1470518686,1470518686,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,14,24,TRUE,TRUE,TRUE,5,8,46E+21,Organic Search,Not Socially Engaged
+36,1,1470526172,1470526172,20160806,1,1,1,1,1,1,(not set),(direct),(none),Africa,Northern Africa,Algeria,1,0,16,29,TRUE,TRUE,TRUE,3,7,02E+22,Direct,Not Socially Engaged
+37,1,1470478311,1470478311,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,3,11,TRUE,TRUE,TRUE,6,9,53E+22,Organic Search,Not Socially Engaged
+38,1,1470536753,1470536753,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,19,25,TRUE,TRUE,TRUE,7,6,00E+22,Organic Search,Not Socially Engaged
+39,1,1470513185,1470513185,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,Canada,1,0,12,53,TRUE,TRUE,TRUE,3,3,57E+22,Organic Search,Not Socially Engaged
+40,1,1470467120,1470467120,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,0,5,TRUE,TRUE,TRUE,6,7,55E+21,Organic Search,Not Socially Engaged
+41,1,1470480300,1470480300,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Eastern Asia,Japan,1,0,3,45,TRUE,TRUE,TRUE,7,7,14E+22,Organic Search,Not Socially Engaged
+42,1,1470547472,1470547472,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,22,24,TRUE,TRUE,TRUE,1,6,26E+22,Organic Search,Not Socially Engaged
+43,1,1470485602,1470485602,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,5,13,TRUE,TRUE,TRUE,5,7,52E+20,Organic Search,Not Socially Engaged
+44,1,1470528110,1470528110,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,17,1,TRUE,TRUE,TRUE,2,9,25E+22,Organic Search,Not Socially Engaged
+45,1,1470478785,1470478785,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Poland,1,0,3,19,TRUE,TRUE,TRUE,8,3,99E+22,Organic Search,Not Socially Engaged
+46,1,1470476603,1470476603,20160806,1,1,1,1,1,1,(not set),baidu,organic,Asia,Eastern Asia,China,1,0,2,43,TRUE,TRUE,TRUE,4,6,01E+21,Organic Search,Not Socially Engaged
+47,1,1470475041,1470475041,20160806,1,1,1,1,1,1,(not set),(direct),(none),Europe,Southern Europe,Greece,1,0,2,17,TRUE,TRUE,TRUE,9,4,00E+21,Direct,Not Socially Engaged
+48,1,1470470547,1470470547,20160806,1,1,1,1,1,1,(not set),baidu,organic,Americas,Northern America,United States,1,0,1,2,TRUE,TRUE,TRUE,1,3,12E+21,Organic Search,Not Socially Engaged
+49,1,1470501962,1470501962,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Italy,1,0,9,46,TRUE,TRUE,TRUE,8,1,45E+22,Organic Search,Not Socially Engaged
+50,2,1470480110,1470480110,20160806,1,1,1,1,1,0,(not set),google,organic,Europe,Southern Europe,Greece,1,0,3,41,TRUE,TRUE,TRUE,9,3,84E+20,Organic Search,Not Socially Engaged
+51,1,1470527234,1470527234,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Singapore,1,0,16,47,TRUE,TRUE,TRUE,5,5,98E+22,Organic Search,Not Socially Engaged
+52,1,1470478129,1470478129,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,Pakistan,1,0,3,8,TRUE,TRUE,TRUE,7,9,75E+22,Organic Search,Not Socially Engaged
+53,2,1470538170,1470538170,20160806,1,1,1,1,1,1,(not set),google,organic,Oceania,Australasia,Australia,1,0,19,49,TRUE,TRUE,TRUE,4,7,45E+22,Organic Search,Not Socially Engaged
+54,1,1470552392,1470552392,20160806,1,1,1,1,1,1,(not set),google,organic,Oceania,Australasia,Australia,1,0,23,46,TRUE,TRUE,TRUE,9,4,24E+22,Organic Search,Not Socially Engaged
+55,1,1470551782,1470551782,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,23,36,TRUE,TRUE,TRUE,2,4,20E+22,Organic Search,Not Socially Engaged
+56,1,1470515356,1470515356,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Spain,1,0,13,29,TRUE,TRUE,TRUE,2,5,17E+22,Organic Search,Not Socially Engaged
+57,1,1470485933,1470485933,20160806,1,1,1,1,1,1,(not set),(direct),(none),Asia,Southern Asia,India,1,0,5,18,TRUE,TRUE,TRUE,7,1,83E+21,Direct,Not Socially Engaged
+58,1,1470470976,1470470976,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,1,9,TRUE,TRUE,TRUE,9,1,91E+22,Organic Search,Not Socially Engaged
+59,1,1470472497,1470472497,20160806,1,1,1,1,1,1,(not set),(direct),(none),Asia,Southeast Asia,Philippines,1,0,1,34,TRUE,TRUE,TRUE,7,1,40E+21,Direct,Not Socially Engaged
+60,1,1470503306,1470503306,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,10,8,TRUE,TRUE,TRUE,9,1,16E+22,Paid Search,Not Socially Engaged
+61,1,1470477776,1470477776,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,3,2,TRUE,TRUE,TRUE,6,9,90E+22,Organic Search,Not Socially Engaged
+62,1,1470521408,1470521408,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,15,10,TRUE,TRUE,TRUE,6,2,40E+22,Organic Search,Not Socially Engaged
+63,1,1470514989,1470514989,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,13,23,TRUE,TRUE,TRUE,7,1,40E+22,Organic Search,Not Socially Engaged
+64,1,1470516322,1470516322,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,13,45,TRUE,TRUE,TRUE,9,7,53E+22,Organic Search,Not Socially Engaged
+65,1,1470493114,1470493114,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Poland,1,0,7,18,TRUE,TRUE,TRUE,1,2,27E+22,Organic Search,Not Socially Engaged
+66,1,1470473331,1470473331,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,1,48,TRUE,TRUE,TRUE,9,1,32E+22,Organic Search,Not Socially Engaged
+67,1,1470472626,1470472626,20160806,1,1,1,1,1,1,(not set),baidu,organic,Asia,Eastern Asia,China,1,0,1,37,TRUE,TRUE,TRUE,5,5,76E+21,Organic Search,Not Socially Engaged
+68,1,1470530159,1470530159,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,17,35,TRUE,TRUE,TRUE,2,2,86E+22,Organic Search,Not Socially Engaged
+69,1,1470480294,1470480294,20160806,1,1,1,1,1,1,(not set),baidu,organic,Americas,Northern America,United States,1,0,3,44,TRUE,TRUE,TRUE,1,1,17E+21,Organic Search,Not Socially Engaged
+70,1,1470512446,1470512446,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Brazil,1,0,12,40,TRUE,TRUE,TRUE,2,6,41E+22,Organic Search,Not Socially Engaged
+71,1,1470491530,1470491530,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Central America,Mexico,1,0,6,52,TRUE,TRUE,TRUE,5,1,16E+22,Organic Search,Not Socially Engaged
+72,1,1470507633,1470507633,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,France,1,0,11,20,TRUE,TRUE,TRUE,5,1,27E+21,Organic Search,Not Socially Engaged
+73,2,1470532977,1470532977,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,18,22,TRUE,TRUE,TRUE,1,9,29E+22,Organic Search,Not Socially Engaged
+74,1,1470475702,1470475702,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Russia,1,0,2,28,TRUE,TRUE,TRUE,9,4,59E+21,Organic Search,Not Socially Engaged
+75,1,1470467720,1470467720,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Western Asia,Turkey,1,0,0,15,TRUE,TRUE,TRUE,6,6,46E+22,Organic Search,Not Socially Engaged
+76,1,1470507299,1470507299,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,11,14,TRUE,TRUE,TRUE,8,1,53E+21,Organic Search,Not Socially Engaged
+77,1,1470504546,1470504546,20160806,1,1,1,1,1,1,(not set),duckduckgo.com,referral,Europe,Northern Europe,Norway,1,0,10,29,TRUE,TRUE,TRUE,4,8,25E+22,Referral,Not Socially Engaged
+78,1,1470535959,1470535959,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Thailand,1,0,19,12,TRUE,TRUE,TRUE,7,7,34E+22,Organic Search,Not Socially Engaged
+79,1,1470539460,1470539460,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,20,11,TRUE,TRUE,TRUE,3,9,14E+21,Organic Search,Not Socially Engaged
+80,1,1470501126,1470501126,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Western Asia,Israel,1,0,9,32,TRUE,TRUE,TRUE,2,6,39E+22,Organic Search,Not Socially Engaged
+81,1,1470501820,1470501820,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,France,1,0,9,43,TRUE,TRUE,TRUE,8,9,21E+22,Organic Search,Not Socially Engaged
+82,1,1470548493,1470548493,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Indonesia,1,0,22,41,TRUE,TRUE,TRUE,7,4,36E+20,Organic Search,Not Socially Engaged
+83,1,1470528406,1470528406,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,France,1,0,17,6,TRUE,TRUE,TRUE,2,7,42E+22,Organic Search,Not Socially Engaged
+84,1,1470514417,1470514417,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,Sweden,1,0,13,13,TRUE,TRUE,TRUE,1,3,84E+22,Organic Search,Not Socially Engaged
+85,1,1470498482,1470498482,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Netherlands,1,0,8,48,TRUE,TRUE,TRUE,8,2,50E+22,Organic Search,Not Socially Engaged
+86,1,1470529782,1470529782,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,17,29,TRUE,TRUE,TRUE,1,9,29E+22,Organic Search,Not Socially Engaged
+87,1,1470494801,1470494801,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,Ireland,1,0,7,46,TRUE,TRUE,TRUE,7,8,47E+22,Organic Search,Not Socially Engaged
+88,1,1470475806,1470475806,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Italy,1,0,2,30,TRUE,TRUE,TRUE,4,1,75E+22,Organic Search,Not Socially Engaged
+89,2,1470525979,1470525979,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,16,26,TRUE,TRUE,TRUE,4,6,53E+22,Organic Search,Not Socially Engaged
+90,1,1470512761,1470512761,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,12,46,TRUE,TRUE,TRUE,6,2,98E+21,Paid Search,Not Socially Engaged
+91,1,1470492519,1470492519,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,7,8,TRUE,TRUE,TRUE,3,8,19E+22,Organic Search,Not Socially Engaged
+92,1,1470543059,1470543059,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Philippines,1,0,21,10,TRUE,TRUE,TRUE,7,9,32E+22,Organic Search,Not Socially Engaged
+93,1,1470531219,1470531219,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Eastern Asia,Taiwan,1,0,17,53,TRUE,TRUE,TRUE,1,9,15E+22,Organic Search,Not Socially Engaged
+94,1,1470490738,1470490738,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,6,38,TRUE,TRUE,TRUE,2,8,50E+21,Organic Search,Not Socially Engaged
+95,2,1470522851,1470522851,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,15,34,TRUE,TRUE,TRUE,6,2,61E+22,Paid Search,Not Socially Engaged
+96,1,1470548087,1470548087,20160806,1,1,1,1,1,1,(not set),google,organic,Oceania,Australasia,Australia,1,0,22,34,TRUE,TRUE,TRUE,1,6,45E+21,Organic Search,Not Socially Engaged
+97,1,1470472958,1470472958,20160806,1,1,1,1,1,1,(not set),baidu,organic,Americas,Northern America,United States,1,0,1,42,TRUE,TRUE,TRUE,5,8,45E+22,Organic Search,Not Socially Engaged
+98,1,1470474532,1470474532,20160806,1,1,1,1,1,1,(not set),baidu,organic,Americas,Northern America,United States,1,0,2,8,TRUE,TRUE,TRUE,9,9,17E+21,Organic Search,Not Socially Engaged
+99,1,1470526769,1470526769,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Central America,Mexico,1,0,16,39,TRUE,TRUE,TRUE,1,5,22E+22,Organic Search,Not Socially Engaged
+100,1,1470493190,1470493190,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Eastern Asia,Japan,1,0,7,19,TRUE,TRUE,TRUE,2,5,77E+20,Organic Search,Not Socially Engaged
+101,1,1470477958,1470477958,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,Pakistan,1,0,3,5,TRUE,TRUE,TRUE,3,3,34E+22,Organic Search,Not Socially Engaged
+102,1,1470485204,1470485204,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Singapore,1,0,5,6,TRUE,TRUE,TRUE,6,5,73E+21,Organic Search,Not Socially Engaged
+103,1,1470491153,1470491153,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Poland,1,0,6,45,TRUE,TRUE,TRUE,9,9,62E+22,Organic Search,Not Socially Engaged
+104,1,1470499213,1470499213,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,9,0,TRUE,TRUE,TRUE,1,8,09E+21,Organic Search,Not Socially Engaged
+105,1,1470517788,1470517788,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,14,9,TRUE,TRUE,TRUE,3,5,91E+21,Organic Search,Not Socially Engaged
+106,1,1470505603,1470505603,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,10,46,TRUE,TRUE,TRUE,7,4,40E+21,Organic Search,Not Socially Engaged
+107,1,1470499213,1470499213,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,9,0,TRUE,TRUE,TRUE,4,1,74E+22,Paid Search,Not Socially Engaged
+108,1,1470501476,1470501476,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,9,37,TRUE,TRUE,TRUE,7,8,91E+22,Organic Search,Not Socially Engaged
+109,1,1470486750,1470486750,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,5,32,TRUE,TRUE,TRUE,4,3,38E+22,Organic Search,Not Socially Engaged
+110,1,1470477545,1470477545,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Germany,1,0,2,59,TRUE,TRUE,TRUE,2,4,66E+22,Organic Search,Not Socially Engaged
+111,1,1470542148,1470542148,20160806,1,1,1,1,1,1,(not set),m.baidu.com,referral,Asia,Eastern Asia,China,1,0,20,55,TRUE,TRUE,TRUE,5,3,43E+21,Referral,Not Socially Engaged
+112,1,1470486915,1470486915,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Russia,1,0,5,35,TRUE,TRUE,TRUE,4,9,11E+22,Organic Search,Not Socially Engaged
+113,1,1470508064,1470508064,20160806,1,1,1,1,1,1,(not set),google,organic,Africa,Western Africa,Nigeria,1,0,11,27,TRUE,TRUE,TRUE,5,2,99E+21,Organic Search,Not Socially Engaged
+114,1,1470543675,1470543675,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,21,21,TRUE,TRUE,TRUE,6,9,66E+22,Organic Search,Not Socially Engaged
+115,1,1470469535,1470469535,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,Bangladesh,1,0,0,45,TRUE,TRUE,TRUE,3,2,47E+22,Organic Search,Not Socially Engaged
+116,1,1470500395,1470500395,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Poland,1,0,9,19,TRUE,TRUE,TRUE,7,6,24E+22,Organic Search,Not Socially Engaged
+117,1,1470545628,1470545628,20160806,1,1,1,1,1,1,(not set),baidu,organic,Asia,Eastern Asia,China,1,0,21,53,TRUE,TRUE,TRUE,9,6,03E+22,Organic Search,Not Socially Engaged
+118,1,1470472573,1470472573,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,1,36,TRUE,TRUE,TRUE,1,8,49E+22,Organic Search,Not Socially Engaged
+119,1,1470552817,1470552817,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,23,53,TRUE,TRUE,TRUE,5,2,79E+22,Organic Search,Not Socially Engaged
+120,1,1470504286,1470504286,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Germany,1,0,10,24,TRUE,TRUE,TRUE,8,5,26E+22,Organic Search,Not Socially Engaged
+121,1,1470470118,1470470118,20160806,1,1,1,1,1,1,(not set),google,organic,Africa,Southern Africa,South Africa,1,0,0,55,TRUE,TRUE,TRUE,5,9,22E+22,Organic Search,Not Socially Engaged
+122,1,1470523086,1470523086,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,15,38,TRUE,TRUE,TRUE,4,7,65E+21,Organic Search,Not Socially Engaged
+123,1,1470528028,1470528028,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,17,0,TRUE,TRUE,TRUE,8,7,32E+22,Paid Search,Not Socially Engaged
+124,1,1470494837,1470494837,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,7,47,TRUE,TRUE,TRUE,7,1,74E+21,Organic Search,Not Socially Engaged
+125,1,1470474904,1470474904,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,2,15,TRUE,TRUE,TRUE,1,7,02E+22,Organic Search,Not Socially Engaged
+126,1,1470510791,1470510791,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Argentina,1,0,12,13,TRUE,TRUE,TRUE,2,8,98E+21,Organic Search,Not Socially Engaged
+127,1,1470480436,1470480436,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,3,47,TRUE,TRUE,TRUE,1,5,80E+22,Organic Search,Not Socially Engaged
+128,1,1470534208,1470534208,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,18,43,TRUE,TRUE,TRUE,3,4,13E+21,Organic Search,Not Socially Engaged
+129,1,1470470881,1470470881,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,1,8,TRUE,TRUE,TRUE,7,7,85E+22,Organic Search,Not Socially Engaged
+130,1,1470523802,1470523802,20160806,1,1,1,1,1,1,(not set),google,cpc,Americas,Northern America,United States,1,0,15,50,TRUE,TRUE,TRUE,2,9,99E+21,Paid Search,Not Socially Engaged
+131,1,1470525216,1470525216,20160806,1,1,1,1,1,1,(not set),google,organic,Oceania,Australasia,Australia,1,0,16,13,TRUE,TRUE,TRUE,8,9,11E+22,Organic Search,Not Socially Engaged
+132,19,1470546023,1470546023,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,22,0,TRUE,TRUE,TRUE,9,4,97E+21,Direct,Not Socially Engaged
+133,1,1470494178,1470494178,20160806,1,1,1,1,1,1,(not set),Partners,affiliate,Asia,Southern Asia,India,1,0,7,36,TRUE,TRUE,TRUE,6,1,89E+22,Affiliates,Not Socially Engaged
+134,1,1470485115,1470485115,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southern Asia,India,1,0,5,5,TRUE,TRUE,TRUE,5,3,16E+20,Organic Search,Not Socially Engaged
+135,1,1470496320,1470496320,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Germany,1,0,8,12,TRUE,TRUE,TRUE,3,4,60E+22,Organic Search,Not Socially Engaged
+136,1,1470550488,1470550488,20160806,1,1,1,1,1,1,(not set),google.com,referral,Africa,Southern Africa,South Africa,1,0,23,14,TRUE,TRUE,TRUE,3,6,35E+22,Referral,Not Socially Engaged
+137,1,1470512590,1470512590,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Bosnia & Herzegovina,1,0,12,43,TRUE,TRUE,TRUE,1,4,73E+22,Organic Search,Not Socially Engaged
+138,2,1470544061,1470544061,20160806,1,1,1,1,1,0,(not set),google,organic,Americas,Northern America,United States,1,0,21,27,TRUE,TRUE,TRUE,7,3,38E+22,Organic Search,Not Socially Engaged
+139,1,1470485926,1470485926,20160806,1,1,1,1,1,1,(not set),(direct),(none),Europe,Eastern Europe,Slovakia,1,0,5,18,TRUE,TRUE,TRUE,3,5,10E+20,Direct,Not Socially Engaged
+140,1,1470535436,1470535436,20160806,1,1,1,1,1,1,(not set),qiita.com,referral,Asia,Eastern Asia,Japan,1,0,19,3,TRUE,TRUE,TRUE,9,3,15E+22,Referral,Not Socially Engaged
+141,1,1470499900,1470499900,20160806,1,1,1,1,1,1,(not set),(direct),(none),(not set),(not set),(not set),1,0,9,11,TRUE,TRUE,TRUE,2,4,35E+22,Direct,Not Socially Engaged
+142,1,1470468449,1470468449,20160806,1,1,1,1,1,1,(not set),dfa,cpm,Americas,Northern America,United States,1,0,0,27,TRUE,TRUE,TRUE,4,1,00E+22,Display,Not Socially Engaged
+143,1,1470510933,1470510933,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Italy,1,0,12,15,TRUE,TRUE,TRUE,7,9,68E+22,Organic Search,Not Socially Engaged
+144,172,1470496805,1470496805,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,Northern America,United States,1,0,8,20,TRUE,TRUE,TRUE,6,8,02E+21,Referral,Not Socially Engaged
+145,2,1470494861,1470494861,20160806,1,1,1,1,1,0,(not set),(direct),(none),Asia,Eastern Asia,Hong Kong,1,0,7,47,TRUE,TRUE,TRUE,7,2,98E+22,Direct,Not Socially Engaged
+146,1,1470529917,1470529917,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Venezuela,1,0,17,31,TRUE,TRUE,TRUE,5,7,60E+22,Organic Search,Not Socially Engaged
+147,1,1470530295,1470530295,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,17,38,TRUE,TRUE,TRUE,1,1,73E+22,Organic Search,Not Socially Engaged
+148,1,1470488046,1470488046,20160806,1,1,1,1,1,1,(not set),(direct),(none),Oceania,Australasia,Australia,1,0,5,54,TRUE,TRUE,TRUE,2,4,22E+22,Direct,Not Socially Engaged
+149,1,1470472068,1470472068,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Eastern Europe,Hungary,1,0,1,27,TRUE,TRUE,TRUE,3,4,03E+22,Organic Search,Not Socially Engaged
+150,2,1470483633,1470483633,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,Northern America,United States,1,0,4,40,TRUE,TRUE,TRUE,3,3,04E+22,Direct,Not Socially Engaged
+151,1,1470490824,1470490824,20160806,1,1,1,1,1,1,(not set),Partners,affiliate,Europe,Eastern Europe,Romania,1,0,6,40,TRUE,TRUE,TRUE,5,2,19E+22,Affiliates,Not Socially Engaged
+152,1,1470484515,1470484515,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Portugal,1,0,4,55,TRUE,TRUE,TRUE,9,8,29E+21,Organic Search,Not Socially Engaged
+153,1,1470497913,1470497913,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,8,38,TRUE,TRUE,TRUE,9,1,11E+21,Organic Search,Not Socially Engaged
+154,1,1470480438,1470480438,20160806,1,1,1,1,1,1,(not set),google.com,referral,Europe,Western Europe,Germany,1,0,3,47,TRUE,TRUE,TRUE,2,3,24E+22,Referral,Not Socially Engaged
+155,1,1470538500,1470538500,20160806,1,1,1,1,1,1,(not set),Partners,affiliate,Asia,Southern Asia,India,1,0,19,55,TRUE,TRUE,TRUE,6,2,34E+22,Affiliates,Not Socially Engaged
+156,1,1470526151,1470526151,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Eastern Asia,Japan,1,0,16,29,TRUE,TRUE,TRUE,8,8,40E+21,Organic Search,Not Socially Engaged
+157,1,1470501309,1470501309,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,9,35,TRUE,TRUE,TRUE,6,1,96E+22,Organic Search,Not Socially Engaged
+158,2,1470520929,1470520929,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,Northern America,United States,1,0,15,2,TRUE,TRUE,TRUE,6,1,68E+22,Direct,Not Socially Engaged
+159,1,1470480754,1470480754,20160806,1,1,1,1,1,1,(not set),qiita.com,referral,Asia,Eastern Asia,Japan,1,0,3,52,TRUE,TRUE,TRUE,8,3,59E+22,Referral,Not Socially Engaged
+160,1,1470481044,1470481044,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Indonesia,1,0,3,57,TRUE,TRUE,TRUE,3,9,89E+22,Organic Search,Not Socially Engaged
+161,5,1470550733,1470550733,20160806,1,1,1,1,1,0,(not set),analytics.google.com,referral,Asia,Eastern Asia,Japan,1,0,23,18,TRUE,TRUE,TRUE,7,8,58E+22,Referral,Not Socially Engaged
+162,1,1470524330,1470524330,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Belgium,1,0,15,58,TRUE,TRUE,TRUE,5,4,97E+21,Organic Search,Not Socially Engaged
+163,1,1470527483,1470527483,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,16,51,TRUE,TRUE,TRUE,3,5,26E+22,Direct,Not Socially Engaged
+164,2,1470503904,1470503904,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,Northern America,United States,1,0,10,18,TRUE,TRUE,TRUE,3,7,99E+22,Direct,Not Socially Engaged
+165,11,1470519943,1470519943,20160806,1,1,1,1,1,0,(not set),google,cpc,Americas,Northern America,United States,1,0,14,45,TRUE,TRUE,TRUE,6,3,38E+22,Paid Search,Not Socially Engaged
+166,1,1470494222,1470494222,20160806,1,1,1,1,1,1,(not set),(direct),(none),Europe,Southern Europe,Croatia,1,0,7,37,TRUE,TRUE,TRUE,9,7,63E+22,Direct,Not Socially Engaged
+167,1,1470485481,1470485481,20160806,1,1,1,1,1,1,(not set),dfa,cpm,Americas,Northern America,Canada,1,0,5,11,TRUE,TRUE,TRUE,7,3,54E+21,Display,Not Socially Engaged
+168,1,1470544581,1470544581,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Argentina,1,0,21,36,TRUE,TRUE,TRUE,3,5,94E+21,Organic Search,Not Socially Engaged
+169,18,1470518725,1470518725,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,Northern America,United States,1,0,14,25,TRUE,TRUE,TRUE,9,4,97E+21,Direct,Not Socially Engaged
+170,1,1470479060,1470479060,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Northern Europe,United Kingdom,1,0,3,24,TRUE,TRUE,TRUE,7,6,32E+20,Organic Search,Not Socially Engaged
+171,1,1470542261,1470542261,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,20,57,TRUE,TRUE,TRUE,1,6,25E+20,Direct,Not Socially Engaged
+172,1,1470520174,1470520174,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Western Europe,Germany,1,0,14,49,TRUE,TRUE,TRUE,2,2,21E+22,Organic Search,Not Socially Engaged
+173,1,1470510808,1470510808,20160806,1,1,1,1,1,1,(not set),Partners,affiliate,Americas,Northern America,United States,1,0,12,13,TRUE,TRUE,TRUE,6,2,06E+22,Affiliates,Not Socially Engaged
+174,1,1470523239,1470523239,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Chile,1,0,15,40,TRUE,TRUE,TRUE,6,1,90E+22,Organic Search,Not Socially Engaged
+175,1,1470490791,1470490791,20160806,1,1,1,1,1,1,(not set),(direct),(none),Asia,Eastern Asia,Japan,1,0,6,39,TRUE,TRUE,TRUE,3,5,36E+22,Direct,Not Socially Engaged
+176,1,1470538728,1470538728,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Brazil,1,0,19,58,TRUE,TRUE,TRUE,1,5,32E+22,Organic Search,Not Socially Engaged
+177,99,1470533160,1470533160,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,18,26,TRUE,TRUE,TRUE,2,8,26E+21,Direct,Not Socially Engaged
+178,1,1470470061,1470470061,20160806,1,1,1,1,1,1,Data Share Promo,Partners,affiliate,Asia,Southern Asia,Sri Lanka,1,0,0,54,TRUE,TRUE,TRUE,2,9,03E+21,Affiliates,Not Socially Engaged
+179,1,1470502062,1470502062,20160806,1,1,1,1,1,1,Data Share Promo,Partners,affiliate,Americas,Northern America,United States,1,0,9,47,TRUE,TRUE,TRUE,4,8,32E+21,Affiliates,Not Socially Engaged
+180,1,1470529779,1470529779,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,17,29,TRUE,TRUE,TRUE,9,5,86E+20,Organic Search,Not Socially Engaged
+181,1,1470542228,1470542228,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,20,57,TRUE,TRUE,TRUE,4,9,16E+20,Direct,Not Socially Engaged
+182,1,1470494833,1470494833,20160806,1,1,1,1,1,1,(not set),google,organic,Asia,Southeast Asia,Malaysia,1,0,7,47,TRUE,TRUE,TRUE,1,5,58E+22,Organic Search,Not Socially Engaged
+183,1,1470500700,1470500700,20160806,1,1,1,1,1,1,(not set),google.com,referral,Americas,Northern America,United States,1,0,9,25,TRUE,TRUE,TRUE,7,8,77E+22,Referral,Not Socially Engaged
+184,2,1470484705,1470484705,20160806,1,1,1,1,1,0,(not set),(direct),(none),Africa,Western Africa,Nigeria,1,0,4,58,TRUE,TRUE,TRUE,6,6,62E+22,Direct,Not Socially Engaged
+185,1,1470471054,1470471054,20160806,1,1,1,1,1,1,(not set),dfa,cpm,Americas,Northern America,United States,1,0,1,10,TRUE,TRUE,TRUE,1,2,54E+22,Display,Not Socially Engaged
+186,25,1470546190,1470546190,20160806,1,1,1,1,1,0,(not set),google,organic,Americas,Northern America,United States,1,0,22,3,TRUE,TRUE,TRUE,4,3,09E+22,Organic Search,Not Socially Engaged
+187,1,1470514207,1470514207,20160806,1,1,1,1,1,1,Data Share Promo,Partners,affiliate,Europe,Northern Europe,Denmark,1,0,13,10,TRUE,TRUE,TRUE,1,8,98E+22,Affiliates,Not Socially Engaged
+188,1,1470552638,1470552638,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,23,50,TRUE,TRUE,TRUE,4,3,02E+20,Organic Search,Not Socially Engaged
+189,2,1470495874,1470495874,20160806,1,1,1,1,1,0,(not set),squishable.com,referral,Americas,Northern America,United States,1,0,8,4,TRUE,TRUE,TRUE,3,2,82E+22,Referral,Not Socially Engaged
+190,1,1470476803,1470476803,20160806,1,1,1,1,1,1,(not set),(direct),(none),Europe,Eastern Europe,Czechia,1,0,2,46,TRUE,TRUE,TRUE,8,6,28E+22,Direct,Not Socially Engaged
+191,3,1470536743,1470536743,20160806,1,1,1,1,1,0,(not set),analytics.google.com,referral,Asia,Eastern Asia,Taiwan,1,0,19,25,TRUE,TRUE,TRUE,1,6,44E+19,Referral,Not Socially Engaged
+192,1,1470504786,1470504786,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,South America,Brazil,1,0,10,33,TRUE,TRUE,TRUE,1,6,50E+21,Organic Search,Not Socially Engaged
+193,2,1470529542,1470529542,20160806,1,1,1,1,1,0,(not set),(direct),(none),Americas,South America,Peru,1,0,17,25,TRUE,TRUE,TRUE,3,6,45E+21,Direct,Not Socially Engaged
+194,1,1470491451,1470491451,20160806,1,1,1,1,1,1,(not set),(direct),(none),Asia,Southern Asia,Pakistan,1,0,6,50,TRUE,TRUE,TRUE,2,9,27E+22,Direct,Not Socially Engaged
+195,1,1470496701,1470496701,20160806,1,1,1,1,1,1,(not set),google,organic,Americas,Northern America,United States,1,0,8,18,TRUE,TRUE,TRUE,5,7,32E+22,Organic Search,Not Socially Engaged
+196,4,1470470400,1470470400,20160806,1,1,1,1,1,0,(not set),(direct),(none),Asia,Western Asia,Oman,1,0,,,TRUE,TRUE,TRUE,5,3,94E+21,Direct,Not Socially Engaged
+197,1,1470493625,1470493625,20160806,1,1,1,1,1,1,(not set),squishable.com,referral,Europe,Northern Europe,Ireland,1,0,7,27,TRUE,TRUE,TRUE,3,5,85E+22,Referral,Not Socially Engaged
+198,1,1470551910,1470551910,20160806,1,1,1,1,1,1,(not set),(direct),(none),Americas,Northern America,United States,1,0,23,38,TRUE,TRUE,TRUE,3,1,43E+21,Direct,Not Socially Engaged
+199,1,1470499891,1470499891,20160806,1,1,1,1,1,1,(not set),google.com,referral,Oceania,Australasia,Australia,1,0,8,11,TRUE,TRUE,TRUE,9,8,20E+22,Referral,Not Socially Engaged
+200,1,1470492348,1470492348,20160806,1,1,1,1,1,1,(not set),google,organic,Europe,Southern Europe,Italy,1,0,7,5,TRUE,TRUE,TRUE,2,6,91E+22,Organic Search,Not Socially Engaged
