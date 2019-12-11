@@ -11,6 +11,17 @@ def show_tables():
      data = pd.read_csv('/data/data.csv')
      #Provide Pie Chart with 
 
+     country_data = data["contingent"]
+     medal_data = data["gold_medal"]
+     colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
+     explode = (0.1, 0, 0, 0, 0)  
+     plt.pie(medal_data, labels=country_data, explode=explode, colors=colors,
+     autopct='%1.1f%%', shadow=True, startangle=140)
+     plt.title("Gold medal achievements of five most successful\n"+"contingents in 2016 Summer Olympics")
+     plt.show()
+
+
+
      
      data.set_index(['Name'], inplace=True)
      data.index.name=None
