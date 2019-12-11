@@ -6,23 +6,26 @@
                google.charts.setOnLoadCallback(drawChart);
 
                function initialize() {
-                    
-               }
+                    var opts = {sendMethod: 'auto'};
+                    // Replace the data source URL on next line with your data source URL.
+                    var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1c-HfrScBFR6-39d1ZweXF5JAitAj3oNAO2jMnkuuljw/edit?usp=sharing', headers=0);
 
-               function drawChart() {
-                    var data = google.visualization.arrayToDataTable([
-                         ['Task', 'Hours per Day'],
-                         ['Work',     11],
-                         ['Eat',      2],
-                         ['Commute',  2],
-                         ['Watch TV', 2],
-                         ['Sleep',    7]
-                    ]);
-                    var options = {
-                         title: 'My Daily Activities'
-                    };
-                    var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-                    chart.draw(data, options);
+                    // Optional request to return only column C and the sum of column B, grouped by C members.
+                    query.setQuery('select geoNetwork');
+
+                    // Send the query with a callback function.
+                    query.send(handleQueryResponse);
+                    }
+
+               function handleQueryResponse(response) {
+                    // Called when the query response is returned.
+                    if (response.isError()) {
+                         alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+                         return;
+                    }
+                         var data = response.getDataTable();
+                         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+                         chart.draw(data, { height: 400 });
                }
           </script>
      </head>
