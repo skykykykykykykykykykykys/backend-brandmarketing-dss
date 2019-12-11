@@ -14,14 +14,14 @@ my_loader = jinja2.ChoiceLoader([
      jinja2.FileSystemLoader('/templates')
 ])
 app.jinja_loader = my_loader
-df = pd.read_csv('/data/data.csv')
-continent = df.groupby('contingent')
+df = pd.read_csv('data/data.csv')
+continent = df.groupby('continent')
 
 @app.route('/pie1/')
 def show_visual():
      #Provide Pie Chart with Asia and Channel Group
      continent_count = {'Americas': 0, 'Asia': 0, 'Europe': 0, 'Oceania': 0, 'Africa': 0}
-     for continent in df['continents']:
+     for continent in df['continent']:
           if continent == 'Americas':
                continent_count['Americas'] += 1
           if continent == 'Asia':
@@ -37,14 +37,10 @@ def show_visual():
      data = continent_count.values()
      explode = (0.05, 0, 0,0,0)
 
-     plt.figure(figsize=(5,5))
+     fig = plt.figure(figsize=(5,5))
      plt.pie(data, labels=labels, explode=explode, autopct='%1.1f%%', startangle=55)
      plt.title('Visits per Continent')
      plt.axis('equal') 
-     fig, ax = plt.subplots()
-     continent_data = continent["asia"]
-     
-
 
      #medal_data = data["gold_medal"]
      #colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
